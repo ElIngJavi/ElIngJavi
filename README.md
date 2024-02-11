@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on my way to learn more about Web and Database Development.\
 ✍️ &nbsp;In my free time, i dedicate myself to graphic design and video editing as hobbies or secondary activities.\
 💬 &nbsp;Feel free to contact me for pro bono consulting and volunteering, or just to have an interesting conversation.\
-✉️ &nbsp;You can email me at javierchernandez201@gmai.com! I will try to respond as soon as i can.\
+✉️ &nbsp;You can email me at javierchernandez201@gmai.com! i'll try to respond as soon as i can.\
 📄 &nbsp;Take a look at my [Resume] for more details about me. I'm open to comments and suggestions!
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
