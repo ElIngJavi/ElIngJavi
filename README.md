@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick tricks.\
-🎓 &nbsp;Im currently studying Computer Systems Engineering at the University of UNIDEP.\
-🌱 &nbsp;Im on my way to learn more about Web and Database Development.\
+🎓 &nbsp;I'm currently studying Computer Systems Engineering at the University of UNIDEP.\
+🌱 &nbsp;I'm on my way to learn more about Web and Database Development.\
 ✍️ &nbsp;In my free time, i dedicate myself to graphic design and video editing as hobbies or secondary activities.\
 💬 &nbsp;Feel free to contact me for pro bono consulting and volunteering, or just to have an interesting conversation.\
 ✉️ &nbsp;You can email me at javierchernandez201@gmai.com! I will try to respond as soon as i can.\
