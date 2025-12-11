@@ -14,8 +14,7 @@
 ✍️ &nbsp;In my free time, I work on graphic design and video editing as creative side activities.\
 💬 &nbsp;Open to collaboration, pro bono consulting, or meaningful conversations about tech and design.\
 ✉️ &nbsp;You can reach me at **javierchernandez201@gmail.com** — I’ll reply as soon as possible.\
-📄 &nbsp;Feel free to check my **Resume** (coming soon!) for more details.
-
+📄 &nbsp;Feel free to check my **Resume** https://github.com/ElIngJavi/ElIngJavi/blob/727d1f46db6bbac820d5fb93f2601b8bd7a65361/CV%20-%202025.pdf
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="260" height="260">
 
 <br><br>
