@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I enjoy exploring new technologies and building efficient software solutions.\
-🎓 &nbsp;Currently pursuing a degree in Computer Systems Engineering at UNIDEP.\
+🎓 &nbsp;Currently pursuing a Master's Degree in Project Management at UNIDEP.\
 🌱 &nbsp;Focused on improving my skills in Web Development, Databases, and Software Engineering.\
 ✍️ &nbsp;In my free time, I work on graphic design and video editing as creative side activities.\
 💬 &nbsp;Open to collaboration, pro bono consulting, or meaningful conversations about tech and design.\
